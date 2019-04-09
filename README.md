@@ -1,0 +1,2 @@
+# tensorflow_scala_notebooks
+Notebooks using tensorflow_scala
